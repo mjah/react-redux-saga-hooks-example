@@ -1,2 +1,1 @@
-# React Redux Tutorial for Beginners: The Definitive Guide
-> Companion repo
+# React + Redux + Saga + Hooks example
